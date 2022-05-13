@@ -2,21 +2,12 @@
 
 body{
     font-family: 'Ubuntu', sans-serif;
-<<<<<<< HEAD
-    font-size: 25px;
-    background-image: url(https://p4.wallpaperbetter.com/wallpaper/464/336/901/digital-art-abstract-lines-cgi-wallpaper-preview.jpg);
-=======
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuxszawk3RlWTs9j_Htse6N6xP5633vB0QA&usqp=CAU);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqWW38FXcl25PELOWLBK98vFmEMi0u_PRZXg&usqp=CAU);
     background-repeat: no-repeat;
->>>>>>> main
     background-size: cover;
     padding: 0;
     margin: 0;
     color:white;
-<<<<<<< HEAD
-    
-=======
->>>>>>> main
 }
 
 body .page{
@@ -96,25 +87,5 @@ nav .OpenMenu-content {
 
  .OpenMenu:hover .OpenMenu2 {background-color: url(toggle-menu-icon-png-8-Transparent-Images.png);
 }
-<<<<<<< HEAD
 
-.config{
-    
-    float: left;
-    width: 25%;
-
-.périph{
-    
-    display: inline-block;
-    width: 50%;
-}
-
-.monBouton{
-
-}
-    
-    
-
-    
-=======
->>>>>>> main
+ 

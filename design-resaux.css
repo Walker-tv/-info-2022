@@ -2,16 +2,23 @@
 
 body{
     font-family: 'Ubuntu', sans-serif;
+<<<<<<< HEAD
     font-size: 25px;
     background-image: url(https://i0.wp.com/images.frandroid.com/wp-content/uploads/2021/06/windows-11-wallpaper-fond-ecran-6-scaled.jpg?ssl=1);
+=======
+    background-image: url(https://thumbs.dreamstime.com/b/d%C3%A9grad%C3%A9-couleur-rose-vif-et-bleu-fond-abstrait-de-215318901.jpg);
+>>>>>>> main
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0;
     margin: 0;
     color:white;
+<<<<<<< HEAD
     text-align: center;
     line-height: 100px;
     
+=======
+>>>>>>> main
 }
 
 body .page{
@@ -92,3 +99,11 @@ nav .OpenMenu-content {
  .OpenMenu:hover .OpenMenu2 {background-color: url(toggle-menu-icon-png-8-Transparent-Images.png);
 }
 
+<<<<<<< HEAD
+=======
+.resaux {
+    margin-top: 20px;
+    margin-left: 20px;
+    inter : 
+}
+>>>>>>> main

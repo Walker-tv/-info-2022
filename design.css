@@ -2,8 +2,12 @@
 
 body{
     font-family: 'Ubuntu', sans-serif;
+<<<<<<< HEAD
     font-size: 25px;
     background-image: url(https://images.frandroid.com/wp-content/uploads/2021/03/windows-10-background.jpg);
+=======
+    background-image: url(https://i.pinimg.com/736x/81/e1/37/81e1377d602f77223c42a3d412a7a013.jpg);
+>>>>>>> main
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0;
@@ -96,6 +100,7 @@ nav .OpenMenu-content {
 .textp1{
         text-align: left;
         width:600px;
+<<<<<<< HEAD
         margin-left:5px;
         margin-right: auto;
         margin-top: 30px;
@@ -112,3 +117,27 @@ nav .OpenMenu-content {
     width:25%;
     text-decoration: itz;
 }
+=======
+        margin-left:20px;
+        margin-right: auto;
+        margin-top: 30px;
+}
+.lastvideo {
+        
+        margin-left: 1000px;
+        margin-right: 10px;
+        margin-top: 30px;
+        margin-bottom: 700px;
+
+}
+
+
+#flexxx{
+    display: flex;
+    justify-content: center;
+   
+
+}
+
+#flexxx div{ width:20%; margin-left:5%;}
+>>>>>>> main

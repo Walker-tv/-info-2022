@@ -2,14 +2,22 @@
 
 body{
     font-family: 'Ubuntu', sans-serif;
+<<<<<<< HEAD
     font-size: 25px;
     background-image: url(https://i.ytimg.com/vi/_e5lXfAel6s/maxresdefault.jpg);
+=======
+    background-image: url(https://steamlists.com/wp-content/uploads/2021/03/wallpaper-engine-how-to-add-effects-to-a-plain-wallpaper-on-0-steamlists-com-32323232325.jpg);
+>>>>>>> main
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0;
     margin: 0;
+<<<<<<< HEAD
     color:black;
     
+=======
+    color:white;
+>>>>>>> main
 }
 
 body .page{
@@ -90,6 +98,7 @@ nav .OpenMenu-content {
  .OpenMenu:hover .OpenMenu2 {background-color: url(toggle-menu-icon-png-8-Transparent-Images.png);
 }
 
+<<<<<<< HEAD
 
 
 
@@ -98,3 +107,12 @@ nav .OpenMenu-content {
     text-decoration: underline; 
 }
 
+=======
+.titre1{
+    text-align: left;
+    width:600px;
+    margin-left:20px;
+    margin-right: auto;
+    margin-top: 30px;
+}
+>>>>>>> main
