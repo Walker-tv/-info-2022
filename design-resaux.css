@@ -3,16 +3,19 @@
 body{
     font-family: 'Ubuntu', sans-serif;
     font-size: 25px;
-    background-image: url(https://images.frandroid.com/wp-content/uploads/2021/03/windows-10-background.jpg);
+    background-image: url(https://i0.wp.com/images.frandroid.com/wp-content/uploads/2021/06/windows-11-wallpaper-fond-ecran-6-scaled.jpg?ssl=1);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0;
     margin: 0;
     color:white;
+    text-align: center;
+    line-height: 100px;
+    
 }
 
 body .page{
-    margin: 1px 1px;
+    margin: 0px 0px;
 }
 
 nav{
@@ -20,9 +23,9 @@ nav{
     flex-wrap:wrap;
     justify-content: space-between;
     position:sticky;
-    top:2;
+    top:0;
     background-color: black;
-    padding: 0px 0px;   
+    padding: 0px 0px;
 }
 
 nav .onglets{
@@ -82,33 +85,10 @@ nav .OpenMenu-content {
 
  }
 
- .OpenMenu-content a:hover {background-image:url(C:\temp\-info-2022\walker2.png)}
+ .OpenMenu-content a:hover {background-image:url(toggle-menu-icon-png-8-Transparent-Images.png)}
 
  .OpenMenu:hover .OpenMenu-content {display: block;}
 
- .OpenMenu:hover .OpenMenu2 {background-image: url(C:\temp\-info-2022\walker2.png);
+ .OpenMenu:hover .OpenMenu2 {background-color: url(toggle-menu-icon-png-8-Transparent-Images.png);
 }
 
-.banniere {
-    background-image: url(C:\temp\-info-2022\Walker.png);
-}
-
-.textp1{
-        text-align: left;
-        width:600px;
-        margin-left:5px;
-        margin-right: auto;
-        margin-top: 30px;
-}
-
-
-.place{
-    display: inline-block;
-   width:50%;
-}
-
-.lorem{
-    float: left;
-    width:25%;
-    text-decoration: itz;
-}
