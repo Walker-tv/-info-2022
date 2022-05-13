@@ -2,7 +2,7 @@
 
 body{
     font-family: 'Ubuntu', sans-serif;
-    background-image: url(https://i.pinimg.com/736x/81/e1/37/81e1377d602f77223c42a3d412a7a013.jpg);
+    background-image: url(https://steamlists.com/wp-content/uploads/2021/03/wallpaper-engine-how-to-add-effects-to-a-plain-wallpaper-on-0-steamlists-com-32323232325.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0;
@@ -11,7 +11,7 @@ body{
 }
 
 body .page{
-    margin: 1px 1px;
+    margin: 0px 0px;
 }
 
 nav{
@@ -19,9 +19,9 @@ nav{
     flex-wrap:wrap;
     justify-content: space-between;
     position:sticky;
-    top:2;
+    top:0;
     background-color: black;
-    padding: 0px 0px;   
+    padding: 0px 0px;
 }
 
 nav .onglets{
@@ -81,39 +81,17 @@ nav .OpenMenu-content {
 
  }
 
- .OpenMenu-content a:hover {background-image:url(C:\temp\-info-2022\walker2.png)}
+ .OpenMenu-content a:hover {background-image:url(toggle-menu-icon-png-8-Transparent-Images.png)}
 
  .OpenMenu:hover .OpenMenu-content {display: block;}
 
- .OpenMenu:hover .OpenMenu2 {background-image: url(C:\temp\-info-2022\walker2.png);
+ .OpenMenu:hover .OpenMenu2 {background-color: url(toggle-menu-icon-png-8-Transparent-Images.png);
 }
 
-.banniere {
-    background-image: url(C:\temp\-info-2022\Walker.png);
+.titre1{
+    text-align: left;
+    width:600px;
+    margin-left:20px;
+    margin-right: auto;
+    margin-top: 30px;
 }
-
-.textp1{
-        text-align: left;
-        width:600px;
-        margin-left:20px;
-        margin-right: auto;
-        margin-top: 30px;
-}
-.lastvideo {
-        
-        margin-left: 1000px;
-        margin-right: 10px;
-        margin-top: 30px;
-        margin-bottom: 700px;
-
-}
-
-
-#flexxx{
-    display: flex;
-    justify-content: center;
-   
-
-}
-
-#flexxx div{ width:20%; margin-left:5%;}
